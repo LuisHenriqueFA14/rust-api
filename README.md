@@ -3,16 +3,16 @@
 
 ## Table of content
 
-* [Overview](##overview)
-* [Stack](##stack)
-* [Usage](##usage)
-* [API](##api)
-  * [Create users](###create-users)
-  * [List users](###list-users)
-  * [List user info](###list-user-info)
-  * [Login user](###login-user)
-  * [Update user](###update-user)
-  * [Delete user](###delete-user)
+* [Overview](#overview)
+* [Stack](#stack)
+* [Usage](#usage)
+* [API](#api)
+  * [Create users](#create-users)
+  * [List users](#list-users)
+  * [List user info](#list-user-info)
+  * [Login user](#login-user)
+  * [Update user](#update-user)
+  * [Delete user](#delete-user)
 
 
 ## Overview
